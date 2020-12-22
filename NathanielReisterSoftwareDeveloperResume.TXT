@@ -1,0 +1,66 @@
+
+Nathaniel Reister
+
+Seattle, WA 98119
+(206) 643-2841
+nathaniel.reister@gmail.com
+
+Links
+
+natereister.com
+linkedin.com/in/natereister/
+github.com/Nathaan92
+
+Professional Summary
+
+A glutton for challenge, always dedicated to many endeavors, and striving to be the embodiment of a well rounded and self capable individual. Having graduated Cum Laude with a double bachelors from SUNY Brockport in 3 years, built a business immediately after a move from New York City to Seattle, challenged by both managing large commercial and residential development projects while attending a coding boot camp. Now with the completion of a recent internship these energies and drive will be dedicated to exceling in the field of Software Development and the manifestation of life long goals.
+
+Skills
+
+Languages: C# | Python | JavaScript | jQuery, React, Ajax | SQL | HTML5 | CSS3
+Databases: MS SQL Server | MySQL | SQLite
+Frameworks: .NET | Web Forms | Entity Framework | Django | Bootstrap
+Architectural Paradigms: Object-Oriented Concepts | MVC | API | Single-Page Applications
+
+Methodology: Agile | Scrum
+IDE's: Visual Studio | Visual Studio Code | PyCharm | Microsoft Azure | Node.js | Db Browser
+Non Technical: Project Management | Team Management | Client Relations | Interpersonal Communication | Public Speaking | Organizational and Process Management | Research Driven | Competent in Bureaucratic Faculties
+
+Work History
+
+October 2020 to December 2020
+Prosper IT Consulting Portland, OR
+Software Developer    
+
+Using Entity framework Code First to develop web application with product models that were integrated further via relational database and scaffold to provide user manipulation of database. Furthermore, completion of user requested changes to UI as well as locate and correct bugs. This was achieved using C#, Razor, CSS, HTML, Bootstrap. Using Visual Studios, Azure as IDE's. Employing OOP and MVC paradigms.
+Using Django framework development of front and back end components of web application that collected user preferences from search and survey results then providing them suggestions. This was achieved using Python, CSS, HTML, Bootstrap. Using PyCharm and Azure as IDE's. Employing OOP paradigms.
+
+June 2018 to Current
+Belotti Mchugh Design And Construction Services Seattle, WA
+Construction Superintendent    
+
+Manage and supervise development of both commercial and residential projects in greater Seattle Area. Scope of this work included but was not limited to client and government relations, project organization, procurement of labor force and materials, oversite of installation method's, responsibility as primary administrator on site, and workflow and coordination of teams.
+
+October 2016 to June 2018
+Fern And Hammer Seattle, WA
+Owner and Operator    
+
+Organize and perform development of residential spaces. Procurement of materials, labor, and implementation of most relevant building methods. Direct client involvement typical in projects as well as continuous research in modern building methods. Performance of administrator duties including financing, permitting, business licensing and taxation, and standard administrator responsibilities.
+
+Education
+
+December 2020 The Tech Academy Portland, Or
+Certificate Full Stack Developer  
+A 1000 hr+ boot camp providing a comprehensive overview of software development with courses in C#, MVC, Python, Django, JavaScript/JQuery, SQL/TSQL(MS SQL Server), HTML5, CSS3, AJAX/XML, Source Control(Git & GitHub), Agile/Scrum Methodologies, OOP, fundamentals of computer technologies.  
+May 2015 SUNY College At Brockport Brockport, NY
+Bachelor of Arts Communications And Political Science 
+Focus of my Double Bachelors
+Communications - Mass Media, Interpersonal, Public, Persuasion tactics.
+Political Sciences - Law and Legal Procedure, Constitutional Law, Comparative Politics.
+Noted Achievements
+
+Dean's List with Honors
+Graduated cum laude
+Resident Assistant
+Cheif Justice in Student Government
+
